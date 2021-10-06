@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[NEW] Task 3 Magic Square", "[NEW] Task 3 Magic Square\[NEW] Task 3 Magic Square.csproj", "{EA939B7E-D982-4897-ADDD-6DB73D7E30D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA939B7E-D982-4897-ADDD-6DB73D7E30D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA939B7E-D982-4897-ADDD-6DB73D7E30D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA939B7E-D982-4897-ADDD-6DB73D7E30D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA939B7E-D982-4897-ADDD-6DB73D7E30D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BFF98FF-F238-4DCC-9AF0-1D956A03386A}
+	EndGlobalSection
+EndGlobal
