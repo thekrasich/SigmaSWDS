@@ -1,0 +1,13 @@
+D:\Study\C# Sigma University\REWORK\[NEW] Task 3 MagicSquare\[NEW] Task 3 Magic Square\[NEW] Task 3 Magic Square\obj\Debug\netcoreapp3.1\[NEW] Task 3 Magic Square.csproj.AssemblyReference.cache
+D:\Study\C# Sigma University\REWORK\[NEW] Task 3 MagicSquare\[NEW] Task 3 Magic Square\[NEW] Task 3 Magic Square\obj\Debug\netcoreapp3.1\[NEW] Task 3 Magic Square.AssemblyInfoInputs.cache
+D:\Study\C# Sigma University\REWORK\[NEW] Task 3 MagicSquare\[NEW] Task 3 Magic Square\[NEW] Task 3 Magic Square\obj\Debug\netcoreapp3.1\[NEW] Task 3 Magic Square.AssemblyInfo.cs
+D:\Study\C# Sigma University\REWORK\[NEW] Task 3 MagicSquare\[NEW] Task 3 Magic Square\[NEW] Task 3 Magic Square\obj\Debug\netcoreapp3.1\[NEW] Task 3 Magic Square.csproj.CoreCompileInputs.cache
+D:\Study\C# Sigma University\REWORK\[NEW] Task 3 MagicSquare\[NEW] Task 3 Magic Square\[NEW] Task 3 Magic Square\bin\Debug\netcoreapp3.1\[NEW] Task 3 Magic Square.exe
+D:\Study\C# Sigma University\REWORK\[NEW] Task 3 MagicSquare\[NEW] Task 3 Magic Square\[NEW] Task 3 Magic Square\bin\Debug\netcoreapp3.1\[NEW] Task 3 Magic Square.deps.json
+D:\Study\C# Sigma University\REWORK\[NEW] Task 3 MagicSquare\[NEW] Task 3 Magic Square\[NEW] Task 3 Magic Square\bin\Debug\netcoreapp3.1\[NEW] Task 3 Magic Square.runtimeconfig.json
+D:\Study\C# Sigma University\REWORK\[NEW] Task 3 MagicSquare\[NEW] Task 3 Magic Square\[NEW] Task 3 Magic Square\bin\Debug\netcoreapp3.1\[NEW] Task 3 Magic Square.runtimeconfig.dev.json
+D:\Study\C# Sigma University\REWORK\[NEW] Task 3 MagicSquare\[NEW] Task 3 Magic Square\[NEW] Task 3 Magic Square\bin\Debug\netcoreapp3.1\[NEW] Task 3 Magic Square.dll
+D:\Study\C# Sigma University\REWORK\[NEW] Task 3 MagicSquare\[NEW] Task 3 Magic Square\[NEW] Task 3 Magic Square\bin\Debug\netcoreapp3.1\[NEW] Task 3 Magic Square.pdb
+D:\Study\C# Sigma University\REWORK\[NEW] Task 3 MagicSquare\[NEW] Task 3 Magic Square\[NEW] Task 3 Magic Square\obj\Debug\netcoreapp3.1\[NEW] Task 3 Magic Square.dll
+D:\Study\C# Sigma University\REWORK\[NEW] Task 3 MagicSquare\[NEW] Task 3 Magic Square\[NEW] Task 3 Magic Square\obj\Debug\netcoreapp3.1\[NEW] Task 3 Magic Square.pdb
+D:\Study\C# Sigma University\REWORK\[NEW] Task 3 MagicSquare\[NEW] Task 3 Magic Square\[NEW] Task 3 Magic Square\obj\Debug\netcoreapp3.1\[NEW] Task 3 Magic Square.genruntimeconfig.cache
