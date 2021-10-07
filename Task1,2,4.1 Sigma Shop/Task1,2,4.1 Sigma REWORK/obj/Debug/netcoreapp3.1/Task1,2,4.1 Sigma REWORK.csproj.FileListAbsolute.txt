@@ -1,0 +1,13 @@
+D:\Study\C# Sigma University\REWORK\Task1,2,4.1 Sigma REWORK\Task1,2,4.1 Sigma REWORK\bin\Debug\netcoreapp3.1\Task1,2,4.1 Sigma REWORK.exe
+D:\Study\C# Sigma University\REWORK\Task1,2,4.1 Sigma REWORK\Task1,2,4.1 Sigma REWORK\bin\Debug\netcoreapp3.1\Task1,2,4.1 Sigma REWORK.deps.json
+D:\Study\C# Sigma University\REWORK\Task1,2,4.1 Sigma REWORK\Task1,2,4.1 Sigma REWORK\bin\Debug\netcoreapp3.1\Task1,2,4.1 Sigma REWORK.runtimeconfig.json
+D:\Study\C# Sigma University\REWORK\Task1,2,4.1 Sigma REWORK\Task1,2,4.1 Sigma REWORK\bin\Debug\netcoreapp3.1\Task1,2,4.1 Sigma REWORK.runtimeconfig.dev.json
+D:\Study\C# Sigma University\REWORK\Task1,2,4.1 Sigma REWORK\Task1,2,4.1 Sigma REWORK\bin\Debug\netcoreapp3.1\Task1,2,4.1 Sigma REWORK.dll
+D:\Study\C# Sigma University\REWORK\Task1,2,4.1 Sigma REWORK\Task1,2,4.1 Sigma REWORK\bin\Debug\netcoreapp3.1\Task1,2,4.1 Sigma REWORK.pdb
+D:\Study\C# Sigma University\REWORK\Task1,2,4.1 Sigma REWORK\Task1,2,4.1 Sigma REWORK\obj\Debug\netcoreapp3.1\Task1,2,4.1 Sigma REWORK.csproj.AssemblyReference.cache
+D:\Study\C# Sigma University\REWORK\Task1,2,4.1 Sigma REWORK\Task1,2,4.1 Sigma REWORK\obj\Debug\netcoreapp3.1\Task1,2,4.1 Sigma REWORK.AssemblyInfoInputs.cache
+D:\Study\C# Sigma University\REWORK\Task1,2,4.1 Sigma REWORK\Task1,2,4.1 Sigma REWORK\obj\Debug\netcoreapp3.1\Task1,2,4.1 Sigma REWORK.AssemblyInfo.cs
+D:\Study\C# Sigma University\REWORK\Task1,2,4.1 Sigma REWORK\Task1,2,4.1 Sigma REWORK\obj\Debug\netcoreapp3.1\Task1,2,4.1 Sigma REWORK.csproj.CoreCompileInputs.cache
+D:\Study\C# Sigma University\REWORK\Task1,2,4.1 Sigma REWORK\Task1,2,4.1 Sigma REWORK\obj\Debug\netcoreapp3.1\Task1,2,4.1 Sigma REWORK.dll
+D:\Study\C# Sigma University\REWORK\Task1,2,4.1 Sigma REWORK\Task1,2,4.1 Sigma REWORK\obj\Debug\netcoreapp3.1\Task1,2,4.1 Sigma REWORK.pdb
+D:\Study\C# Sigma University\REWORK\Task1,2,4.1 Sigma REWORK\Task1,2,4.1 Sigma REWORK\obj\Debug\netcoreapp3.1\Task1,2,4.1 Sigma REWORK.genruntimeconfig.cache

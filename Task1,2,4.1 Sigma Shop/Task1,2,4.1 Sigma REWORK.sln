@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1,2,4.1 Sigma REWORK", "Task1,2,4.1 Sigma REWORK\Task1,2,4.1 Sigma REWORK.csproj", "{45BC0087-A599-4A05-8B9C-3FF8B79CB641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45BC0087-A599-4A05-8B9C-3FF8B79CB641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BC0087-A599-4A05-8B9C-3FF8B79CB641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BC0087-A599-4A05-8B9C-3FF8B79CB641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BC0087-A599-4A05-8B9C-3FF8B79CB641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B493F3E-7DB5-4A04-8986-B12EAC3F650D}
+	EndGlobalSection
+EndGlobal
