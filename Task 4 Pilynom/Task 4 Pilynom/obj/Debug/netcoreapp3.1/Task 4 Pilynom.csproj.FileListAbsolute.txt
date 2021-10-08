@@ -1,0 +1,13 @@
+D:\Study\C# Sigma University\Task 4 Polynom\Task 4 Pilynom\Task 4 Pilynom\bin\Debug\netcoreapp3.1\Task 4 Pilynom.exe
+D:\Study\C# Sigma University\Task 4 Polynom\Task 4 Pilynom\Task 4 Pilynom\bin\Debug\netcoreapp3.1\Task 4 Pilynom.deps.json
+D:\Study\C# Sigma University\Task 4 Polynom\Task 4 Pilynom\Task 4 Pilynom\bin\Debug\netcoreapp3.1\Task 4 Pilynom.runtimeconfig.json
+D:\Study\C# Sigma University\Task 4 Polynom\Task 4 Pilynom\Task 4 Pilynom\bin\Debug\netcoreapp3.1\Task 4 Pilynom.runtimeconfig.dev.json
+D:\Study\C# Sigma University\Task 4 Polynom\Task 4 Pilynom\Task 4 Pilynom\bin\Debug\netcoreapp3.1\Task 4 Pilynom.dll
+D:\Study\C# Sigma University\Task 4 Polynom\Task 4 Pilynom\Task 4 Pilynom\bin\Debug\netcoreapp3.1\Task 4 Pilynom.pdb
+D:\Study\C# Sigma University\Task 4 Polynom\Task 4 Pilynom\Task 4 Pilynom\obj\Debug\netcoreapp3.1\Task 4 Pilynom.csproj.AssemblyReference.cache
+D:\Study\C# Sigma University\Task 4 Polynom\Task 4 Pilynom\Task 4 Pilynom\obj\Debug\netcoreapp3.1\Task 4 Pilynom.AssemblyInfoInputs.cache
+D:\Study\C# Sigma University\Task 4 Polynom\Task 4 Pilynom\Task 4 Pilynom\obj\Debug\netcoreapp3.1\Task 4 Pilynom.AssemblyInfo.cs
+D:\Study\C# Sigma University\Task 4 Polynom\Task 4 Pilynom\Task 4 Pilynom\obj\Debug\netcoreapp3.1\Task 4 Pilynom.csproj.CoreCompileInputs.cache
+D:\Study\C# Sigma University\Task 4 Polynom\Task 4 Pilynom\Task 4 Pilynom\obj\Debug\netcoreapp3.1\Task 4 Pilynom.dll
+D:\Study\C# Sigma University\Task 4 Polynom\Task 4 Pilynom\Task 4 Pilynom\obj\Debug\netcoreapp3.1\Task 4 Pilynom.pdb
+D:\Study\C# Sigma University\Task 4 Polynom\Task 4 Pilynom\Task 4 Pilynom\obj\Debug\netcoreapp3.1\Task 4 Pilynom.genruntimeconfig.cache
